@@ -1,0 +1,14 @@
+{
+  "name": "uniquenaam",
+  "version": "1.0.0",
+  "description": "A utility to generate unique filenames",
+  "main": "uniquenaki.js",
+  "keywords": [
+    "filename",
+    "unique",
+    "generator"
+  ],
+  "author": "abdullahwins",
+  "repository": "https://github.com/abdullahwins/uniquenaam",
+  "license": "MIT"
+}
