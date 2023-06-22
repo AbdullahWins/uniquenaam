@@ -1,4 +1,4 @@
-#Assalamualaikum! Presenting UniqueNaam!
+# Assalamualaikum! Presenting UniqueNaam!
 
 UniqueNaam is an npm package that provides a utility function for generating unique filenames by appending a timestamp to the original filename. It is designed to be simple and easy to use.
 
