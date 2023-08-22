@@ -19,7 +19,7 @@ yarn add uniquenaam
 Import the `UniqueNaam` function from the package:
 
 ```javascript
-const { UniqueNaam } = require('uniquenaam');
+const { UniqueNaam } = require("uniquenaam/uniquenaam");
 ```
 
 Then, call the `UniqueNaam` function, passing the original filename as an argument:
