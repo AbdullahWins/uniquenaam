@@ -19,13 +19,13 @@ yarn add uniquenaam
 Import the `UniqueNaam` function from the package:
 
 ```javascript
-const { UniqueNaam } = require('uniquenaam');
+const { UniqueNaam } = require("uniquenaam/uniquenaam");
 ```
 
 Then, call the `UniqueNaam` function, passing the original filename as an argument:
 
 ```javascript
-const originalFilename = 'example.txt';
+const originalFilename = "example.txt";
 const uniqueFilename = UniqueNaam(originalFilename);
 
 console.log(uniqueFilename); // Outputs something like: "1624372177321_example.txt"
@@ -40,7 +40,6 @@ UniqueNaam is licensed under the [MIT License](https://opensource.org/licenses/M
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/abdullahwins/uniquenaam).
-
 
 ## Contact
 

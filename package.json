@@ -1,10 +1,14 @@
 {
   "name": "uniquenaam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility to generate unique filenames",
-  "main": "uniquenaki.js",
+  "main": "uniquenaam.js",
   "keywords": [
     "filename",
+    "unique",
+    "UUID",
+    "UID",
+    "TimestampId",
     "unique",
     "generator"
   ],
